@@ -1,0 +1,12 @@
+*{
+    background-color: burlywood;
+}
+div{
+    text-align: center;
+    margin: 15%;
+    border-color: black;
+    border-width: 5px;
+    border-style: double;
+    padding: 20px;
+ 
+}
